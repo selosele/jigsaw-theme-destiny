@@ -1,0 +1,14 @@
+{
+    "name": "jigsaw/blog-skeleton",
+    "description": "A blog theme Destiny for Jigsaw",
+    "license": "MIT",
+    "require": {
+        "tightenco/jigsaw": "^1.3"
+    },
+    "scripts": {
+        "jigsaw-watch": "jigsaw serve production --port=7777"
+    },
+    "config": {
+        "process-timeout": 0
+    }
+}
